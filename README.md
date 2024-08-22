@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# Nowhere - Beschreibung zwei Pro  
+# Nowhere - Beschreibung  
 
 ### ( teaser aus dem heft hier einfügen - ### stehen lassen!! ) 
 
