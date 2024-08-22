@@ -4,15 +4,16 @@ Maker Media GmbH
 
 ***
 
-# Nowhere - Beschreibung  
+# Ein Maker-Paradies in der Wüste
 
-### ( teaser aus dem heft hier einfügen - ### stehen lassen!! ) 
-
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+### Make zu Besuch bei Europas größtem Burning-Man-Ableger – Nowhere. In dieser Reportage stellen wir euch zwei Projekte vor, die auf ganz unterschiedliche Weise zum einzigartigen Flair des Festivals beigetragen haben, aber auch in anderen Kontexten nachgebaut werden können. Am Beispiel des Kunstwerks „Firestarter“ werden die Grundlagen von Feuermaschinen erklärt und wir präsentieren  einer Duschanlage, bei der der Wasser-verbrauch mit Arduino und RFID-Tags gesteuert wird.
 
 ![Firestarter](https://github.com/MakeMagazinDE/Nowhere/blob/master/Firestarter%20Bild%2001_niwe.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2024/5/). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Bei dem Kunstwerk "Firestarter" handelt es sich um ein riesiges Feuerzeug, gesteuert von einem normalen Feuerzeug. Hier gibt es den Arduino-Code des Firestarters.
 
-![Dusche](https://github.com/MakeMagazinDE/Nowhere/blob/master/Firestarter%20Bild%2001_niwe.jpg)
+Den vollständigen Artikel gibt es in der [Make-Ausgabe 5/24 ab Seite 118](https://www.heise.de/select/make/2024/5/).
 
+![Dusche]()
+
+Für die in der Reportage beschriebene Duschanlage findet ihr hier den Arduino-Code und einen PDF mit vielen detallierten Bildern von der Aufbau des "Maschinenraum" der Anlage.
