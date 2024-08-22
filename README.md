@@ -12,8 +12,8 @@ Maker Media GmbH
 
 Bei dem Kunstwerk "Firestarter" handelt es sich um ein riesiges Feuerzeug, gesteuert von einem normalen Feuerzeug. Hier gibt es den Arduino-Code des Firestarters.
 
-Den vollständigen Artikel gibt es in der [Make-Ausgabe 5/24 ab Seite 118](https://www.heise.de/select/make/2024/5/).
-
-![Dusche]()
+![Dusche](https://github.com/MakeMagazinDE/Nowhere/blob/master/BILD%2006%20-%20Duscharmatur%20und%20Arduino%20RFID-Leser_niwe.jpg)
 
 Für die in der Reportage beschriebene Duschanlage gibt es hier den Arduino-Code und ein PDF mit vielen Detailfotos vom Aufbau des "Maschinenraums" der Anlage.
+
+Der vollständige Artikel, in dem beide Projekte ausführlich vorgestellt werden, findet ihr in der [Make-Ausgabe 5/24](https://www.heise.de/select/make/2024/5/).
