@@ -16,4 +16,4 @@ Den vollständigen Artikel gibt es in der [Make-Ausgabe 5/24 ab Seite 118](https
 
 ![Dusche]()
 
-Für die in der Reportage beschriebene Duschanlage findet ihr hier den Arduino-Code und einen PDF mit vielen detallierten Bildern von der Aufbau des "Maschinenraum" der Anlage.
+Für die in der Reportage beschriebene Duschanlage gibt es hier den Arduino-Code und ein PDF mit vielen Detailfotos vom Aufbau des "Maschinenraums" der Anlage.
